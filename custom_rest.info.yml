@@ -1,0 +1,8 @@
+name: 'Custom REST'
+type: module
+description: 'Custom module via using REST API'
+core: 8.x
+package: 'Custom'
+
+dependencies:
+  - pets_owners_storage
